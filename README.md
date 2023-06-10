@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ethan Bills</h1>
 <h3 align="center">A passionate DevOps/Infra engineer from Los Angeles</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejbills" alt="ejbills" /></a> </p>
-
 - 🔭 I’m currently working on [Customizable Reddit Newsletteer](https://github.com/ejbills/Customizable-Reddit-Newsletter)
 
 - 🌱 I’m currently learning **Groovy, Go, and Swift**
