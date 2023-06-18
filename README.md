@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Bills</h1>
 <h3 align="center">A passionate DevOps/Infra engineer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [Customizable Reddit Newsletteer](https://github.com/ejbills/Customizable-Reddit-Newsletter)
+- 🔭 I’m currently working on [Customizable Reddit Newsletter](https://github.com/ejbills/Customizable-Reddit-Newsletter)
 
 - 🌱 I’m currently learning **Groovy, Go, and Swift**
 
