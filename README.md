@@ -22,8 +22,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ejbills&theme=rogue&bg_color=0D1117&hide_border=true" width="800"/>
 
-## 🐍 Contribution Snake
-
-<img src="https://github.com/ejbills/ejbills/blob/output/github-contribution-grid-snake-dark.svg" width="800"/>
-
 </div>
